@@ -1,6 +1,6 @@
 # NPS NLW#4
 ## Installation
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies:
 `$ yarn`
 or
 `$ npm install`
